@@ -1,5 +1,5 @@
 Project: clock-display
-Authors: David Barnes and Michael Kölling
+Authors: Henri Chevreux, David Barnes and Michael Kölling
 
 This project is part of the material for the book
 
